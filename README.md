@@ -66,5 +66,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rythlan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<div align="center">
+  <a href="https://wakatime.com/@a5bdf16a-9945-4be0-b62c-862ca4822983"><img src="https://wakatime.com/badge/user/a5bdf16a-9945-4be0-b62c-862ca4822983.svg" alt="Total time coded since Jun 19 2025" /></a>
+</div>
+
 
 ###
