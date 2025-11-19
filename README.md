@@ -3,7 +3,7 @@
   <br />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=35CE8D&center=true&vCenter=true&width=435&lines=hey+there+%F0%9F%91%8B;rythlan@linux:~%24+init_profile.sh;loading+system+tools...;welcome+to+my+page" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=35CE8D&center=true&vCenter=true&width=600&lines=hey+there+%F0%9F%91%8B;rythlan@dev:~%24+init_profile.sh;loading+system+tools...;welcome+to+my+page" alt="Typing SVG" />
   </a>
 
   <br />
@@ -66,8 +66,10 @@ rythlan@github:~$ cat about_me.txt
 <h3 align="center">🔥 Runtime Statistics</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rythlan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3&ring=35CE8D&fire=35CE8D&currStreakNum=35CE8D&sideNums=35CE8D&currStreakLabel=35CE8D" height="190" alt="streak graph" />
-  
+  <img src="https://streak-stats.demolab.com?user=Rythlan&theme=github-dark-blue&hide_border=true&short_numbers=true&card_height=190" />
+    <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rythlan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
   <br />
   
   <a href="https://wakatime.com/@a5bdf16a-9945-4be0-b62c-862ca4822983">
