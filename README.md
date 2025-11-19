@@ -66,8 +66,6 @@ rythlan@github:~$ cat about_me.txt
 <h3 align="center">🔥 Runtime Statistics</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rythlan&theme=github-dark-blue&hide_border=true&short_numbers=true&card_height=190" />
-    <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Rythlan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
   <br />
